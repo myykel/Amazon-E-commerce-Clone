@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # Amazon E-commerce Clone Project
 
-Welcome to the Amazon E-commerce Clone project! This project is built using Vite and React, providing you with a foundation to create your e-commerce web application.
+ This project is built using Vite and React and TailwindCSS
 
 ## Getting Started
 
@@ -24,26 +24,26 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 
-Use Git to clone the project to your local machine:
+### Use Git to clone the project to your local machine:
 
-```bash
+bash
 git clone https://github.com/myykel/Amazon-E-commerce-Clone.git
 
- Navigate to the Project Directory
+###  Navigate to the Project Directory
 
 cd amazon-ecommerce-clone
 
-Install Dependencies
+### Install Dependencies
 Install project dependencies using pnpm:
 pnpm install
 
-Run the Development Server
+### Run the Development Server
 Start the development server:
 pnpm dev
 
 The application will be available at http://localhost:5173/.
 
-Project Structure
+### Project Structure
 public/: Contains static assets.
 src/: Source code.
 public/index.html: Main HTML file.
